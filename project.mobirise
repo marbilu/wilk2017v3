@@ -1,0 +1,648 @@
+{
+  "settings": {
+    "name": "seminarium wiary",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 19,
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "22px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#b08c52"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#bb9c6a!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#c0a375"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1",
+          "_params": {
+            "bgColor": "#c0a375",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/zote-128x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#contacts1-e",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://najswietszarodzina.pl/informacje_o_sanktuarium,1.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Parafia p.w. Najświętszej Rodziny w Krakowie</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map1-5\">MAPA DOJAZDU</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-c\">KONTAKT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-3\">CHCĘ POMÓC</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "text-align": "center"
+            },
+            "B": {
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "content1-4",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#faaf40"
+          },
+          "text": "<p>\"<b>WSZYSTKO</b> <b>MOGĘ</b> <b>W TYM</b>, <b>KTÓRY</b> <b>MNIE</b> <b>UMACNIA</b>\".</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "B": {
+              "font-size": "36px"
+            },
+            "H3": {
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+            }
+          },
+          "_anchor": "msg-box5-a",
+          "_params": {
+            "imageSize": "50",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/baner2-2000x850.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/niedziela26marca-1400x1400.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?time_continue=12&v=osQgfxSpOyo",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "linkInNewWindow": false,
+              "name": "wifi",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SEMINARIUM<br>ODNOWY<br>WIARY",
+          "text": "<b>Poprowadzi:<br>Witek Wilk</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "text-align": "center"
+            },
+            "B": {
+              "color": "#f7da64",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "text-align": "right"
+            },
+            "P": {
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "content1-b",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#c0a375"
+          },
+          "text": "\"WSZYSTKO MOGĘ W TYM, KTÓRY MNIE UMACNIA\" Flp 4,13"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#7c706b"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle B": {
+              "font-size": "19px",
+              "color": "#efefef"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle": {
+              "font-size": "20px"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle B": {
+              "text-align": "right",
+              "font-size": "19px"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle DIV": {
+              "text-align": "left"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "font-size": "19px"
+            }
+          },
+          "_anchor": "features1-3",
+          "_params": {
+            "columnsColor": "#7c706b",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/witek-na-stronk-600x899.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "KTO I DO KOGO?",
+          "subtitle1": "<b>Witek Wilk właśnie do Ciebie&nbsp;</b>",
+          "caption1": "\"Moją największą pasją życiową jest głoszenie Ewangelii. Od ponad 25 lat staram się wypełniać powierzoną mi misję głoszenia jej gdzie tylko się da.<br>Muzyka to moja kolejna pasja. Od 15 lat jestem profesjonalnym perkusistą. We współpracy z wieloma formacjami nagrałem już łącznie ponad 50 płyt.<br>Podczas wielu lat naszej misji ewangelizacyjnej Bóg pozwolił nam wspólnie z żoną odkryć wiele innych pasji, a jego niezmienna miłość do każdego człowieka, pomaga nam je rozwijać i dzięki temu dawać pracę innym\".&nbsp;<br><br>Witek Wilk<br><br>&nbsp;Zapraszamy nie tylko mieszkańców naszej parafii, Krakowa i okolic, ale wszystkich, którzy poczują w sercu wezwanie do uczestnictwa w seminarium.<br><br><br><br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/koci-600x899.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "KIEDY I GDZIE?",
+          "subtitle2": "<b>7.11.2017</b> <b>- 19.12.2017</b><br><b>Parafia</b>&nbsp;<b>Najświętszej Rodziny</b><br><b style=\"line-height: 1.7857; text-align: left;\">Kraków-Nowy Bieżanów</b>",
+          "caption2": "Będziemy spotykać się od 7 listopada do 19 grudnia 2017 r. w każdy wtorek o godz. 18.00. Odbędzie się więc siedem spotkań. Możecie do nas dojechać środkami komunikacji miejskiej korzystając z linii tramwajowych <b><a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=3\" target=\"_blank\">3</a>,<a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=9\" target=\"_blank\">9</a><a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=13\" target=\"_blank\">,13</a>,<a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=23\" target=\"_blank\">23</a></b> oraz autobusowych <b><a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=133\" target=\"_blank\">133</a>,<a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=163\" target=\"_blank\">163</a>,<a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=183\" target=\"_blank\">183</a>,<a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=243\" target=\"_blank\">243</a>,<a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=503\" target=\"_blank\">503</a></b>. Ci, którzy lubią spacery mogą skorzystać też z pociągu jadącego z Balic ze stacji <b><a href=\"https://malopolskiekoleje.pl/index.php/trasy/wieliczka-rynek-kopalnia-krakow-glowny-krakow-lotnisko-airport\" target=\"_blank\">Kraków Lotnisko do Wieliczka Rynek Kopalnia</a> </b>wysiadając na stacji Kraków Bieżanów. Poniżej umieściliśmy mapkę, byście mogli zaplanować dojazd. Będziemy uradowani Waszą obecnością w naszym sanktuarium i zapewniamy, że nie tylko czeka Was niesamowita przygoda w odkrywaniu Żywego Boga, ale wierzymy, że będzie ona również pięknym przygotowaniem do świętowania Bożego Narodzenia.&nbsp;",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/wesprzyj-nas-600x899.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "WESPRZYJ NAS",
+          "subtitle3": "<b>Każda forma mile widziana</b>",
+          "caption3": "<span style=\"font-size: 1rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1rem; line-height: 1.5;\">W pierwszej kolejności prosimy o modlitwę. Wierzymy, że ma ona wielką moc i dzięki niej przezwyciężymy wszelkie trudności, które mogą pojawić się przy organizacji seminarium.</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">Jeżeli czujesz taką potrzebę zachęcamy do włączenia się w &nbsp;to dzieło. Można pomagać na wiele sposobów o czym piszemy też w kolejnej ramce.&nbsp;</span>Na koniec prosimy również o wsparcie materialne. Możesz wspomóc organizację wpłacając dowolną kwotę na parafialny rachunek<br>Seminarium Odnowy Wiary:<br>PKO BP<br>06 1020 2892 0000 5702 0638 6678<br>w tytule proszę wpisać:<br><b>darowizna SOW</b><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/plakat-do-strony-600x899.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "MATERIAŁY DO POBRANIA",
+          "subtitle4": "<b>Włącz się w dzieło ewangelizacji</b>",
+          "caption4": "Nie każdy ma charyzmat głoszenia słowa, ale każdy chrześcijanin powołany jest do włączenia się w misję ewangelizacji. Udostępniamy &nbsp;materiały byście mogli informacją o seminarium podzielić się z innymi, również w mediach społecznościowych. Możecie &nbsp;pobrać, wydrukować i powiesić plakat informujący o naszych spotkaniach lub skontaktować się z nami wykorzystując formularz na dole strony i odebrać wydrukowane już plakaty i ulotki. Udostępnijcie je w Waszych wspólnotach, miejscach pracy, nauki, wśród znajomych, przyjaciół, rodziny.&nbsp;<br>Materiały w formie cyfrowej dostępne są w tym miejscu:<br><b><a href=\"http://marbilu.github.io/wilk2017/a4.jpg\" target=\"_blank\">plakat do wydrukowania</a></b><a href=\"http://marbilu.github.io/wilk2017/a4.jpg\" target=\"_blank\"> </a><b><a href=\"http://marbilu.github.io/wilk2017/a4.jpg\" target=\"_blank\">A4</a></b><br><b>grafiki do internetu <a href=\"http://github.com/marbilu/wilk2017/baner 800x800.jpg\" target=\"_blank\">1</a>,<a href=\"http://github.com/marbilu/wilk2017800x800 baner 2.jpg\" target=\"_blank\">2</a>,3</b><br>Wydrukowane materiały można odebrać w:<br><a href=\"http://bfotoarte.pl\" target=\"_blank\">FOTO STUDIO</a>&nbsp;ul. Bieżanowska 1<br>( róg ulic Bieżanowska i Wielicka)<br>30-812 Kraków w&nbsp;godz.10.00-16.00<br>od poniedziałku do piątku.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff",
+              "text-align": "center",
+              "font-size": "30px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-i",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#c0a375",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "Wpisz swojego e-maila jeżeli planujesz wziąć udział w seminarium&nbsp;",
+          "subtitle": "Na seminarium nie obowiązują zapisy. Twój wpis jest dobrowolny i pozwoli nam orientacyjnie określić liczbę zainteresowanych, za co bardzo dziękujemy.",
+          "form": {
+            "action": "zgloszenie.wilk2017@gmail.com",
+            "alerts": {
+              "success": "Dziękujemy :-)"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Wpisz swój adres email..."
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Kliknij</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-h",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/to2-2000x850.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": false,
+            "showText": false,
+            "showTitle": false
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "PRE MADE BLOCKS"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "text-align": "center"
+            },
+            "B": {
+              "color": "#fac51c"
+            },
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "content1-7",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#c0a375"
+          },
+          "text": "Tutaj Jesteśmy"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-5",
+          "_params": {
+            "googleMap": {
+              "address": "Parafia Najświętszej Rodziny ul. Aleksandry 1 KrakóW",
+              "placeId": "ChIJxUxj8YFDFkcRL9dcyZb6IxQ",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "text-align": "center"
+            },
+            "B": {
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "content1-d",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "3",
+            "bgColor": "#c0a375"
+          },
+          "text": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-6",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 <a href=\"http://youngtree.pl\" target=\"_blank\">YoungTree.pl</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "form1-c",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "NAPISZ DO NAS",
+          "subtitle": "Odpowiemy na każde zapytanie :-)",
+          "form": {
+            "action": "sow.wilk2017@gmail.com",
+            "alerts": {
+              "success": "Dziękujemy :-)"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Imię"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Wiadomość"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">wyślij</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "font-size": "14px",
+              "color": "#efefef"
+            },
+            "P": {
+              "color": "#ffffff",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "contacts1-e",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#c0a375",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/zote-128x128.jpg",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "Sanktuarium Najświętszej Rodziny<br>w Krakowie - Nowym Bieżanowie<br>Parafia p.w. Najświętszej Rodziny<br>ul. Aleksandry 1, 30-837 Kraków<br>tel. i fax 12 658-03-50,<br>tel. 12 658-62-66<br><a href=\"http://najswietszarodzina.pl/informacje_o_sanktuarium,1.html\" target=\"_blank\" class=\"text-black\">www.najswietszarodzina.pl</a><br>",
+          "text2": "",
+          "text3": "<p>wspierają nas:<br>\n<a href=\"https://youngtree.pl\" class=\"text-black\" target=\"_blank\">www.YoungTree.pl</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"http://fundacjazanim.pl\" target=\"_blank\" class=\"text-black\">Fundacja Za Nim</a><br><a href=\"http://bogatysklep.pl\" class=\"text-black\" target=\"_blank\">BOGAtySklep.pl</a></p>"
+        }
+      ]
+    }
+  }
+}
